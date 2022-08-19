@@ -1,0 +1,16 @@
+export { default as Billing } from './Billing';
+export { default as Dashboard} from './Dashboard';
+export { default as Brokerage } from './Brokerage';
+export { default as BusinessAnalysis } from './BusinessAnalysis';
+export { default as Clients } from './Clients';
+export { default as DataManagement} from './DataManagement';
+export { default as EmailSchedular } from './EmailSchedular';
+export { default as FolloLookup } from './FolloLookup';
+export { default as Insurance} from './Insurance';
+export { default as InvestOnlineNSE } from './InvestOnlineNSE';
+export { default as RiskHandling } from './RiskHandling';
+export { default as RiskProfiling } from './RiskProfiling';
+export { default as TransactionsView } from './TransactionsView';
+export { default as Utilities } from './Utilities';
+export { default as PortfolioScreener } from './PortfolioScreener';
+export{ default as ComprehensivePortfolio } from './ComprehensivePortfolio';
